@@ -1,8 +1,11 @@
-var TEN = 10;
-var ONE_HUNDRED = 100;
-var ONE_THOUSAND = 1000;
-var ONE_MILLION = 1000000;
-var ONE_BILLION = 1000000000;
-var ONE_TRILLION = 1000000000000;
-var ONE_QUADRILLION = 1000000000000000;
-var MAX = 9007199254740992;
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const TEN = 10;
+const ONE_HUNDRED = 100;
+const ONE_THOUSAND = 1_000;
+const ONE_MILLION = 1_000_000;
+const ONE_BILLION = 1_000_000_000;
+const ONE_TRILLION = 1_000_000_000_000;
+const ONE_QUADRILLION = 1_000_000_000_000_000;
+const MAX = 9_007_199_254_740_992;
+//# sourceMappingURL=app.js.map
